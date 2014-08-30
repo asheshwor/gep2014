@@ -2,7 +2,10 @@
 
 This repository contains the presentation files for my presentation at GEP Seminar to be held on Monday, 1 September 2014.
 
-## License
+View the presentation at [http://asheshwor.github.io/gep2014](http://asheshwor.github.io/gep2014/#/)
 
-This repository contains the code of [Reveal.js](https://github.com/hakimel/reveal.js)
-which is licensed under the [MIT license](https://github.com/hakimel/reveal.js/blob/master/LICENSE).
+Recommended browsers: Chrome, Safari, Firefox, Opera and IE10
+
+### License for Reveal.js framework
+
+This repository contains the code of [Reveal.js](https://github.com/hakimel/reveal.js) licensed under the [MIT license](https://github.com/asheshwor/gep2014/blob/master/LICENSE).
